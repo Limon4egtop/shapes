@@ -12,7 +12,7 @@
 int Lemon::Rectangle::number_ = 0;
 int Lemon::Circle::number_ = 0;
 
-int main1()
+int main()
 {
 	setlocale(LC_ALL, "Russian");
 	try
